@@ -103,7 +103,7 @@
         <mxCell id="umCrac20nb64rFXeeyaQ-30" value="Seperar por categorias" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="-240" y="-10" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="umCrac20nb64rFXeeyaQ-31" value="Uploud de imagens" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=3" parent="1" vertex="1">
+        <mxCell id="umCrac20nb64rFXeeyaQ-31" value="Realizar uploud de imagens" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="-330" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="umCrac20nb64rFXeeyaQ-32" value="Copiar e colar imagens" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=3" parent="1" vertex="1">
